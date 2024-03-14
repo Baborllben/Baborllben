@@ -1,7 +1,8 @@
 ### WELCOME TO FOTAILX 👋
 - 我们是不专业团队，做什么都不专业。
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cwd295645351&show_icons=true&theme=transparent" /> 
+#### ABOUT US:
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baborllben&layout=compact&langs_count=6&text_color=000&icon_color=0D1117&theme=graywhite" />
 </div>
 
 <!--
