@@ -1,11 +1,11 @@
 ### WELCOME TO FOTAILX 👋
-- 我们是不专业团队，做什么都不专业。
+- 不是专业的人，做什么都不专业。
 #### ABOUT ME:
-我所使用的语言：
+使用的语言：
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baborllben&layout=compact&langs_count=6&text_color=fff&icon_color=0D1117&theme=black&bg_color=161B22&border_color=161B22" />
 </div>
-我或多或少会的：（排的越后，会的越少）
+或多或少会的：
 <span> 
   <br \>
   <img alt="Static Badge" src="https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange"> 
@@ -17,7 +17,7 @@
   <br \>
   <br \>
 </span>
-我用过的编辑器/编译器：
+用过的编辑器/编译器：
 <span> 
   <br \>
   <img alt="Static Badge" src="https://img.shields.io/badge/visual%20studio-2019-indigo?style=for-the-badge&logo=visual%20studio&logoColor=indigo"> 
