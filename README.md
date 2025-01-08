@@ -13,6 +13,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/the%20c%20programming%20language-blue?style=for-the-badge&logo=c&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-ES14-cyan?style=for-the-badge&logo=JAVASCRIPT&logoColor=cyan"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/kotlin-2.1.0-purple?style=for-the-badge&logo=kotlin&logoColor=purple">
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-11-yellow?style=for-the-badge&logo=JAVA&logoColor=yellown">
   <br \>
   <br \>
@@ -20,13 +21,13 @@
 用过的编辑器/编译器：
 <span> 
   <br \>
-  <img alt="Static Badge" src="https://img.shields.io/badge/visual%20studio-2019-indigo?style=for-the-badge&logo=visual%20studio&logoColor=indigo"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/sublimetext-3-lightgray?style=for-the-badge&logo=sublime-text&logoColor=orange"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/intellij%20idea-2021.2.3-deepgray?style=for-the-badge&logo=intellij%20idea&logoColor=black"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/visual%20studio-2022-indigo?style=for-the-badge&logo=visual%20studio&logoColor=indigo"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/vscode-0-deepgray?style=for-the-badge&logo=visual%20studio%20code&logoColor=deepblue"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/intellij%20idea-2024.3.1-deepgray?style=for-the-badge&logo=intellij%20idea&logoColor=black"> 
 </span>
 
 #### ABOUT US:
-**Fotailx ©️ 2020 ~ 2024**
+**Fotailx ©️ 2023 ~ 2025**
 
 #### FINAL:
 nothing
