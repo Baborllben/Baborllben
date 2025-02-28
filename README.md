@@ -8,14 +8,12 @@
 或多或少会的：
 <span> 
   <br \>
-<!--   <img alt="Static Badge" src="https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/PHP-8-red?style=for-the-badge&logo=PHP&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/the%20c%20programming%20language-blue?style=for-the-badge&logo=c&logoColor=white"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white">  
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-ES14-cyan?style=for-the-badge&logo=JAVASCRIPT&logoColor=cyan"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/kotlin-2.1.0-purple?style=for-the-badge&logo=kotlin&logoColor=purple">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-11-yellow?style=for-the-badge&logo=JAVA&logoColor=yellown"> -->
-  **不告诉你**
   <br \>
   <br \>
 </span>
