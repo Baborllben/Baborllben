@@ -12,7 +12,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/PHP-8-red?style=for-the-badge&logo=PHP&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/the%20c%20programming%20language-blue?style=for-the-badge&logo=c&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white">  
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSharp-dotnet8.0purple?style=for-the-badge&logo=csharp&logoColor=white"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSharp-dotnet80purple?style=for-the-badge&logo=csharp&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-ES14-cyan?style=for-the-badge&logo=JAVASCRIPT&logoColor=cyan"> 
   <br \>
   <br \>
