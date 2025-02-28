@@ -21,8 +21,8 @@
 <span> 
   <br \>
   <img alt="Static Badge" src="https://img.shields.io/badge/visual%20studio-2022-indigo?style=for-the-badge&logo=visual%20studio&logoColor=indigo"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/vscode-0-deepgray?style=for-the-badge&logo=visual%20studio%20code&logoColor=deepblue"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/clion-0-gray-2024.3.3?style=for-the-badge&logo=visual%20studio%20code&logoColor=deepblue"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/vscode-deepgray?style=for-the-badge&logo=visual%20studio%20code&logoColor=deepblue"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/clion-2024.3.3-gray?style=for-the-badge&logo=visual%20studio%20code&logoColor=deepblue"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/intellij%20idea-2024.3.1-deepgray?style=for-the-badge&logo=intellij%20idea&logoColor=black"> 
 </span>
 
