@@ -1,9 +1,9 @@
 <h1 align="center">你好，我是 <blod>日本天皇</blod></h1>
 <h3 align="center">Kitsunetsuka Kyuju 已经取代了 孙笑川！</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baborllben&label=Profile%20views&color=0e75b6&style=flat" alt="baborllben" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Baborllben&label=Profile%20views&color=0e75b6&style=flat" alt="Baborllben" /> </p>
 
-- 🔭 我目前正工作于 [SiMa Primary School](http://www.023xiaoyuan.com/detail/intro/sid/14231077157538928)
+- 🔭 我目前正工作于 **[SiMa Primary School](http://www.023xiaoyuan.com/detail/intro/sid/14231077157538928)**
 
 - 🌱 我现在正在学习 **C++ & Java**
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/foxrptr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="foxrptr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/foxrpointer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="foxrpointer" height="30" width="40" /></a>
+<a href="https://twitter.com/foxrpointer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="foxrptr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Foxrpointer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="foxrpointer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
