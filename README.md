@@ -1,4 +1,4 @@
-<h1 align="center">你好，我是 **日本天皇**</h1>
+<h1 align="center">你好，我是 <strong>日本天皇</strong></h1>
 <h3 align="center">Kitsunetsuka Kyuju 已经取代了 孙笑川！</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baborllben&label=Profile%20views&color=0e75b6&style=flat" alt="baborllben" /> </p>
