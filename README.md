@@ -1,47 +1,22 @@
-### WELCOME TO FOTAILX 👋
-- 不是专业的人，做什么都不专业。
-#### ABOUT ME:
-使用的语言：
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baborllben&layout=compact&langs_count=6&text_color=fff&icon_color=0D1117&theme=black&bg_color=161B22&border_color=161B22" />
-</div>
-或多或少会的：
-<span> 
-  <br \>
-  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-8-red?style=for-the-badge&logo=PHP&logoColor=white"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/the%20c%20programming%20language-blue?style=for-the-badge&logo=c&logoColor=white"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white">  
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSharp-dotnet80-purple?style=for-the-badge&logo=csharp&logoColor=white"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-ES14-cyan?style=for-the-badge&logo=JAVASCRIPT&logoColor=cyan"> 
-  <br \>
-  <br \>
-</span>
-用过的编辑器/编译器：
-<span> 
-  <br \>
-  <img alt="Static Badge" src="https://img.shields.io/badge/visual%20studio-2022-indigo?style=for-the-badge&logo=visual%20studio&logoColor=indigo"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/vscode-deepgray?style=for-the-badge&logo=visual%20studio%20code&logoColor=deepblue"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/clion-2024.3.3-yellow?style=for-the-badge&logo=visual%20studio%20code&logoColor=deepblue"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/intellij%20idea-2024.3.1-deepgray?style=for-the-badge&logo=intellij%20idea&logoColor=black"> 
-</span>
+<h1 align="center">你好，我是 **日本天皇**</h1>
+<h3 align="center">Kitsunetsuka Kyuju 已经取代了 孙笑川！</h3>
 
-#### ABOUT US:
-**Fotailx ©️ 2023 ~ 2025**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baborllben&label=Profile%20views&color=0e75b6&style=flat" alt="baborllben" /> </p>
 
-#### FINAL:
-nothing
-<!--
-**Baborllben/Baborllben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 我目前正工作于 [SiMa Primary School](http://www.023xiaoyuan.com/detail/intro/sid/14231077157538928)
 
-Here are some ideas to get you started:
+- 🌱 我现在正在学习 **C++ & Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **foxrptr@163.com**
+
+- ⚡ 有趣的事实 **真的有趣吗**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/foxrptr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="foxrptr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/foxrpointer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="foxrpointer" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
