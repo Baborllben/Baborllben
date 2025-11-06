@@ -1,4 +1,4 @@
-<h1 align="center">你好，我是 <blod>日本天皇</blod></h1>
+<h1 align="center">你好，我是<blod>日本首相</blod></h1>
 <h3 align="center">狐塚九十はすでに高世早苗に取って代わった！</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Baborllben&label=Profile%20views&color=0e75b6&style=flat" alt="Baborllben" /> </p>
