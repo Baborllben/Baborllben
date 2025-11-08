@@ -47,7 +47,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  </p><br>
+  </p>
   
 **連絡先**
 > Email:    foxrpointer@gmail.com | foxrptr@163.com
