@@ -52,6 +52,7 @@
   
 **連絡先**
 > Email:    foxrpointer@gmail.com | foxrptr@163.com
+> 
 > Telegram: @Foxrpointer
 <p align="left">
 <a href="https://twitter.com/foxrpointer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="foxrptr" height="30" width="40" /></a>
