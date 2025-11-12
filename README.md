@@ -1,10 +1,11 @@
 <!-- <h1 align="center">你好，我是<blod>日本首相</blod></h1>-->
 ## About Me
 
-はじめまして、[あなたの名前] と申します。👋<br>
+你好你好你好，我是 `Kyuujuu Kitsuneduka`，Hi there👋<br>
 
-**ソフトウェアエンジニア | バックエンド / クラウド技術**
-> 堅牢でスケーラブルなシステム構築を目指して、日々学習しています
+**软件工程 & 后端云技术**
+<!-- > 堅牢でスケーラブルなシステム構築を目指して、日々学習しています -->
+> good good study, day day up
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Baborllben&label=Profile%20views&color=0e75b6&style=flat" alt="Baborllben" /> </p> -->
 
 - My Tech Stack
@@ -27,7 +28,7 @@
   ```
   `I am learning C++ & Java`<br>
   
-- フレームワーク & ツール
+- 框架 & 工具
   <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -58,4 +59,4 @@
 </p>
 
 ## 最后までご覧いただき
-+ Fun Fact: 孩子们这并不好笑。私は`中国`のです
++ Fun Fact: 孩子们这并不好笑。
