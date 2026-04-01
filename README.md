@@ -5,7 +5,7 @@
 
 **软件工程 & 后端云技术**
 <!-- > 堅牢でスケーラブルなシステム構築を目指して、日々学習しています -->
-> good good study, day day up
+> 呜哇呜哇呜呜嘻嘻
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Baborllben&label=Profile%20views&color=0e75b6&style=flat" alt="Baborllben" /> </p> -->
 
 - My Tech Stack
